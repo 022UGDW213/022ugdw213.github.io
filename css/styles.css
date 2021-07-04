@@ -10852,11 +10852,11 @@ textarea.form-control-lg {
   }
 }
 html {
-  height: 0%;
+  height: 100%;
 }
 
 body {
-  height: 200%;
+  height: 100%;
   position: fixed;
 
 
