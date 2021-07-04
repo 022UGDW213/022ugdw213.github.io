@@ -10895,7 +10895,7 @@ video.bg-video {
   }
 }
 .masthead {
-  position: relative;
+  position: fixed;
   overflow: hidden;
   z-index: 2;
   display: flex;
@@ -10904,7 +10904,7 @@ video.bg-video {
 }
 .masthead:before {
 
-  position: absolute;
+  position: fixed;
   top: 100%;
   bottom: 100%;
   right: 0;
@@ -10914,7 +10914,7 @@ video.bg-video {
   background-color: rgba(0, 0, 0, 0.85);
 }
 .masthead .masthead-content {
-  position: relative;
+  position: fixed;
   max-width: 40rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
