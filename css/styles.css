@@ -10857,7 +10857,7 @@ html {
 
 body {
   height: 100%;
-  position: fixed;
+  position: relative;
 
 
 
