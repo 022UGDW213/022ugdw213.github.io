@@ -10853,11 +10853,36 @@ textarea.form-control-lg {
 }
 html {
   height: 500%;
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 body {
   height: 500%;
   position: relative;
+
+
+
+
+
+
+
+
+
+
+
+
 }
 body:before {
   content: "";
@@ -10869,6 +10894,10 @@ body:before {
   background-color: #2a5555;
   opacity: 0.7;
   z-index: 1;
+
+
+
+
 }
 
 video.bg-video {
