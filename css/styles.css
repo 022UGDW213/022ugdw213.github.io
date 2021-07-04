@@ -10902,7 +10902,7 @@ video.bg-video {
   justify-content: center;
 }
 .masthead:before {
-  content: "";
+
   position: absolute;
   top: 0;
   bottom: 0;
